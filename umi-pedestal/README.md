@@ -1,16 +1,8 @@
-# umi-qiankun-template
+# umi project
 
 ## Getting Started
 
 Install dependencies,
-
-```bash
-$ cd umi-pedestal
-```
-
-```bash
-$ cd umi-child
-```
 
 ```bash
 $ yarn
